@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-Now/static/css/main.f855e6bc.css",
+    "main.js": "/Weather-Now/static/js/main.a9293c3c.js",
+    "static/js/453.224c0903.chunk.js": "/Weather-Now/static/js/453.224c0903.chunk.js",
+    "static/media/logo.svg": "/Weather-Now/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Weather-Now/index.html",
+    "main.f855e6bc.css.map": "/Weather-Now/static/css/main.f855e6bc.css.map",
+    "main.a9293c3c.js.map": "/Weather-Now/static/js/main.a9293c3c.js.map",
+    "453.224c0903.chunk.js.map": "/Weather-Now/static/js/453.224c0903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a9293c3c.js"
+  ]
+}
